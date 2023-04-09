@@ -1,7 +1,3 @@
-﻿  pch.cpp
-  dllmain.cpp
-  SetOperations.cpp
-E:\source\LotteryNumberChecker\SetOperations\SetOperations.cpp(39,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-     Creating library E:\source\LotteryNumberChecker\x64\Debug\SetOperations.lib and object E:\source\LotteryNumberChecker\x64\Debug\SetOperations.exp
+﻿  SetOperations.cpp
+E:\source\LotteryNumberChecker\SetOperations\SetOperations.cpp(45,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   SetOperations.vcxproj -> E:\source\LotteryNumberChecker\x64\Debug\SetOperations.dll
